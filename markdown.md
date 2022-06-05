@@ -209,5 +209,6 @@ CDN设置
 <li>http://cofu.ltd:81/http_cache_test?type=normal&cc=private,max-age=120</li>
 <li>http://cofu.ltd:81/http_cache_test?type=error0</li>
 <li>http://cofu.ltd:81/http_cache_test?type=error1</li>
-<li>https://github.com/happinessandlove/learn_openresty</li>
+<li>演示代码地址：https://github.com/happinessandlove/learn_openresty</li>
+<li>PPT代码地址：https://github.com/happinessandlove/http_cache_slid.git</li>
 </ul>
