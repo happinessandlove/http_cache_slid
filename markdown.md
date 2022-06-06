@@ -35,6 +35,7 @@ Note: 经过测试发现APP里面内嵌的浏览器总是会缓存旧版本html�
 
 - 为什么需要缓存
 - HTTP缓存流程
+- 条件验证请求
 - HTTP缓存指令
 - 缓存如何存取
 
@@ -64,6 +65,17 @@ Note: 经过测试发现APP里面内嵌的浏览器总是会缓存旧版本html�
 
 ###### 缓存流程演示
 <iframe src="//player.bilibili.com/player.html?aid=384655930&bvid=BV16Z4y147YR&cid=738899638&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px" width="1000px"> </iframe>
+
+
+
+##### 条件验证请求
+
+
+优先级：If-None-Match 〉 If-Modified-Since
+``` bash
+If-Modified-Since: Wed, 01 Jun 2022 10:39:14 GMT
+If-None-Match: cb212bd75b1438e0c4582e7235238d1e
+```
 
 
 
