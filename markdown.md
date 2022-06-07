@@ -60,7 +60,7 @@ Note: 经过测试发现APP里面内嵌的浏览器总是会缓存旧版本html�
 
 
 ###### 时间视角
-![](https://pic.cofu.ltd/picgo/202206040128646.png)
+![](https://pic.cofu.ltd/picgo/202206071829502.png)
 
 
 ###### 缓存流程演示
@@ -212,6 +212,7 @@ CDN设置
 <ul>
 <li>https://www.freecodecamp.org/news/an-in-depth-introduction-to-http-caching-cache-control-vary/</li>
 <li>https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching</li>
+<li>https://datatracker.ietf.org/doc/html/rfc7234</li>
 <li>https://imququ.com/post/vary-header-in-http.html</li>
 </ul>
 
