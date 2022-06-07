@@ -210,18 +210,18 @@ CDN设置
 参考：
 
 <ul>
-<li>https://www.freecodecamp.org/news/an-in-depth-introduction-to-http-caching-cache-control-vary/</li>
-<li>https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching</li>
-<li>https://datatracker.ietf.org/doc/html/rfc7234</li>
-<li>https://imququ.com/post/vary-header-in-http.html</li>
+<li><a href="https://www.freecodecamp.org/news/an-in-depth-introduction-to-http-caching-cache-control-vary/">https://www.freecodecamp.org/news/an-in-depth-introduction-to-http-caching-cache-control-vary/</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching">https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc7234">https://datatracker.ietf.org/doc/html/rfc7234</a></li>
+<li><a href="https://imququ.com/post/vary-header-in-http.html">https://imququ.com/post/vary-header-in-http.html</a></li>
 </ul>
 
 
 使用的测试URL及代码地址:
 <ul>
-<li>http://cofu.ltd:81/http_cache_test?type=normal&cc=private,max-age=120</li>
-<li>http://cofu.ltd:81/http_cache_test?type=error0</li>
-<li>http://cofu.ltd:81/http_cache_test?type=error1</li>
-<li>演示代码地址：https://github.com/happinessandlove/learn_openresty</li>
-<li>PPT代码地址：https://github.com/happinessandlove/http_cache_slid.git</li>
+<li><a href="http://cofu.ltd:81/http_cache_test?type=normal&cc=private,max-age=120">http://cofu.ltd:81/http_cache_test?type=normal&cc=private,max-age=120</a></li>
+<li><a href="http://cofu.ltd:81/http_cache_test?type=error0">http://cofu.ltd:81/http_cache_test?type=error0</a></li>
+<li><a href="http://cofu.ltd:81/http_cache_test?type=error1">http://cofu.ltd:81/http_cache_test?type=error1</a></li>
+<li>演示代码地址：<a href="https://github.com/happinessandlove/learn_openresty">https://github.com/happinessandlove/learn_openresty</a></li>
+<li>PPT代码地址：<a href="https://github.com/happinessandlove/http_cache_slid.git">https://github.com/happinessandlove/http_cache_slid.git</a></li>
 </ul>
